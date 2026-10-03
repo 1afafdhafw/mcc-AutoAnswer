@@ -1,2 +1,2 @@
 # mcc-AutoAnswer
-mcc的自动排队插件
+mcc的2b2t.xin自动排队插件
